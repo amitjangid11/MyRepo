@@ -14,7 +14,8 @@ body {
 
 h1 {
   font-size: 20px;
-  color: blue;
+  color: rgb(0, 0, 0);
   text-decoration: underline;
   margin-bottom: 10px;
+  text-align: center;
 }
