@@ -9,7 +9,7 @@ body {
   width: 100 vw;
 }
 body {
-  background: linear-gradient(to right, purple, red);
+  background: linear-gradient(to right, rgb(173, 0, 0), rgb(11, 11, 11));
 }
 
 h1 {
